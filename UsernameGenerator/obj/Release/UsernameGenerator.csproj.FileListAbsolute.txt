@@ -1,0 +1,15 @@
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\bin\Release\UsernameGenerator.exe.config
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\bin\Release\UsernameGenerator.exe
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\bin\Release\UsernameGenerator.pdb
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.csprojAssemblyReference.cache
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\MainWindow.g.cs
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\App.g.cs
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator_MarkupCompile.cache
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator_MarkupCompile.lref
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\MainWindow.baml
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.g.resources
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.Properties.Resources.resources
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.csproj.GenerateResource.cache
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.exe
+C:\Users\Nandin\source\repos\UsernameGenerator\UsernameGenerator\obj\Release\UsernameGenerator.pdb
