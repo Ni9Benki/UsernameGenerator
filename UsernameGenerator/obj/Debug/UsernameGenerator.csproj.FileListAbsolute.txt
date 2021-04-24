@@ -1,0 +1,15 @@
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\bin\Debug\UsernameGenerator.exe.config
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\bin\Debug\UsernameGenerator.exe
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\bin\Debug\UsernameGenerator.pdb
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.csprojAssemblyReference.cache
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\App.g.cs
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator_MarkupCompile.cache
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator_MarkupCompile.lref
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\MainWindow.baml
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.g.resources
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.Properties.Resources.resources
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.csproj.GenerateResource.cache
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.exe
+C:\Users\Nandin\Desktop\GitHub\UsernameGenerator\UsernameGenerator\obj\Debug\UsernameGenerator.pdb
